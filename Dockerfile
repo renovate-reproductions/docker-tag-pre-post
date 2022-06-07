@@ -1,0 +1,1 @@
+FROM kimai/kimai2:apache-1.20.1-prod@sha256:ee32448e4aca8ef2acde61c44c30e5bedb794a75160b85deb2eddec9ea24a21f
